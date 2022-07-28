@@ -1,0 +1,15 @@
+Package: ggmercari
+Type: Package
+Title: Branded graphs for Mercari UXR
+Version: 0.1.0
+Author: Megan McMahon
+Maintainer: Megan McMahon <megan.mcmahon@mercari.com>
+Encoding: UTF-8
+LazyData: true
+Depends:
+    dplyr,
+    ggplot2,
+    magrittr,
+    scales,
+    tidyr
+RoxygenNote: 7.2.1
